@@ -1,0 +1,36 @@
+// {
+//     "compilerOptions": {
+//       "target": "ES5",
+//       "module": "none", 
+//       "outDir": "./dist",
+//       "rootDir": "./src",
+//       "strict": true,
+//       "noEmitHelpers": true,
+//       "removeComments": true
+//     }
+//   }
+  
+// {
+//     "compilerOptions": {
+//       "target": "ES5",
+//       "module": "none", 
+//       "outDir": "./dist",
+//       "rootDir": "./src",
+//       "strict": true,
+//       "noEmitHelpers": true,
+//       "removeComments": true
+//     }
+//   }
+  
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "none",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "noEmitHelpers": true,
+      "removeComments": true
+    }
+  }
+  

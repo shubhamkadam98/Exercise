@@ -1,0 +1,10 @@
+<div>
+    <h2>Cart</h2>
+    <ul>
+      <li ng-repeat="item in vm.cartItems track by $index">
+        {{ item.name }} - ${{ item.price }}
+        <button ng-click="vm.removeItem($index)">Remove</button>
+      </li>
+    </ul>
+  </div>
+  
